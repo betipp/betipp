@@ -8,7 +8,8 @@ Big cat enthusiast 🐱
 
 <h3>Projects 🗃️ </h3>
 
-- Latest project : <a href="https://pompam.itch.io/zoomies">Zoomies</a> 🐈💫
+- Latest project : <a href="https://github.com/betipp/Ghost-Cafe">Ghost Café</a> 👻☕
+- Previous project : <a href="https://pompam.itch.io/zoomies">Zoomies</a> 🐈💫
 - New project : Beekeeper [ in progress ] 🐝🍯
 
 <hr>
