@@ -21,10 +21,9 @@ Big cat enthusiast 🐱
 <hr>
 
 Say hello! 📫
-<br><br>
-<a href="https://twitter.com/PomPamWasTaken"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=twitter&perline=1)
-<a href="https://pompam.itch.io/"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=itchio&perline=1)
 
+- Twitter : <a href="https://twitter.com/PomPamWasTaken/" style="text-decoration:none;">@PomPam </a> 
+- Itch.io : <a href="https://pompam.itch.io/" style="text-decoration:none;">PomPam </a>
 
 
 <!--
