@@ -16,14 +16,15 @@ Big cat enthusiast 🐱
 
 <h3>Skills 🧰 </h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=unity,html,js,css,vue,java,python)](https://skills.thijs.gg)
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=unity,blender,ps,cs,java,python,vue,js,git&perline=3)
 
 <hr>
 
 Say hello! 📫
-- Twitter : <a href="https://twitter.com/PomPamWasTaken">@PomPam</a>
-- Itch.io : <a href="https://pompam.itch.io/">PomPam</a>
+<br><br>
+<a href="https://twitter.com/PomPamWasTaken"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=twitter&perline=1)
+<a href="https://pompam.itch.io/"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=itchio&perline=1)
+
 
 
 <!--
