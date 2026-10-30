@@ -8,9 +8,9 @@ Big cat enthusiast 🐱
 
 <h3>Projects 🗃️ </h3>
 
-- In progress : Tidybox [ in progress ] 📦🧹✨
-- Latest project : <a href="https://github.com/betipp/Ghost-Cafe">Ghost Café</a> 👻☕
-- Previous project : <a href="https://pompam.itch.io/zoomies">Zoomies</a> 🐈💫
+- In progress : 3D modeling 🧊🎨
+- Latest project : <a href="https://github.com/betipp/Ghost-Cafe">Tidybox</a> 📦🧹✨
+- Previous project : <a href="https://github.com/betipp/Ghost-Cafe">Ghost Café</a> 👻☕
 - Shelf : Beekeeper [ in progress ] 🐝🍯
 
 <hr>
